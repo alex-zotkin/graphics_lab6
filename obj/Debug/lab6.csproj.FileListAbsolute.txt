@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\bin\Debug\lab6.exe.config
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\bin\Debug\lab6.exe
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\bin\Debug\lab6.pdb
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.exe
+C:\Users\Александр\Desktop\Учеба\4 курс\Компьютерная графика\lab6\obj\Debug\lab6.pdb
